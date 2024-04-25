@@ -21,3 +21,17 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
+### `Follow these steps to run the app locally`
+
+```shell
+git clone git@github.com:Jaman-dedy/autocomplete-react.git
+cd autocomplete-react
+npm install
+npm run
+npm test
+```
+
+
+
+
+
