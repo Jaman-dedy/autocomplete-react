@@ -6,7 +6,6 @@ import './style.css';
 import { Product } from '../../types/product';
 
 
-
 interface AutoCompleteProps {
   onAutoComplete: (event: React.ChangeEvent<HTMLInputElement>) => void;
   input: string;
